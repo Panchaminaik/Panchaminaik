@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assests/banner.png" width="100%" alt="Panchami Naik Banner">
+  <img src="./assets/banner.png" width="100%" alt="Panchami Naik Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Panchami Naik</h1>
