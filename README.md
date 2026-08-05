@@ -56,6 +56,11 @@ An interactive healthcare analytics dashboard built with **Power BI**, **DAX**, 
 - 📈 Interactive Charts
 - ⚡ Advanced DAX Measures
 - 📑 Power Query Data Transformation
+- ## 📷 Dashboard Preview
+
+<p align="center">
+  <img src="./assets/dashboard.png" width="95%">
+</p>
 
 ## 💻 Skills
 
