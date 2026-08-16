@@ -1,4 +1,4 @@
-<p align="center">
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/51cc0833-7e64-4a9e-8bd5-a4b219ef081e" /><p align="center">
   <img src="./assets/banner.png" width="100%" alt="Panchami Naik Banner">
 </p>
 
@@ -90,8 +90,8 @@ I'm actively looking for opportunities as a **Data Analyst** where I can apply m
 |---|---|---|
 | 📚 Book Web Scraping & Data Analysis | Python, BeautifulSoup, Pandas, Matplotlib | Web Scraping • EDA • Data Visualization |
 <p align="center">
-  <img src="./book-web-scraping-data-analysis/Assets.png" width="95%">
-</p>>
+  <img src="./Assets.png" width="100%" alt="Book Web Scraping & Data Analysis">
+</p>
 
 **Highlights**
 - 🌐 Collected **1,000 book records**
