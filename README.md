@@ -89,9 +89,9 @@ I'm actively looking for opportunities as a **Data Analyst** where I can apply m
 | 🔍 Project | 🛠️ Technologies | 📊 Focus |
 |---|---|---|
 | 📚 Book Web Scraping & Data Analysis | Python, BeautifulSoup, Pandas, Matplotlib | Web Scraping • EDA • Data Visualization |
- <p align="center">
-  <img src="assets/book-web-scraping.png" width="800">
-</p>
+<p align="center">
+  <img src="./Assets.png" width="95%">
+</p>>
 
 **Highlights**
 - 🌐 Collected **1,000 book records**
