@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/51cc0833-7e64-4a9e-8bd5-a4b219ef081e" /><p align="center">
+
   <img src="./assets/banner.png" width="100%" alt="Panchami Naik Banner">
 </p>
 
