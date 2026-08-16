@@ -72,15 +72,6 @@ An interactive healthcare analytics dashboard built with **Power BI**, **DAX**, 
 | Visualization | DAX, Power BI |
 | Version Control | Git, GitHub |
 
-## 💼 Open to Work
-
-I'm actively looking for opportunities as a **Data Analyst** where I can apply my skills in:
-
-- Power BI
-- SQL
-- Excel
-- Python
-- Business Intelligence
 
 ### 📚 Book Web Scraping & Data Analysis
 
@@ -102,6 +93,16 @@ I'm actively looking for opportunities as a **Data Analyst** where I can apply m
 - 🖼️ Created multiple data visualizations
 
 🔗 **[📂 View Project](https://github.com/Panchaminaik/book-web-scraping-data-analysis)**
+## 💼 Open to Work
+
+I'm actively looking for opportunities as a **Data Analyst** where I can apply my skills in:
+
+- Power BI
+- SQL
+- Excel
+- Python
+- Business Intelligence
+
 
 ## 📫 Connect With Me
 
