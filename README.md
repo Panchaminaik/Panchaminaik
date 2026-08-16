@@ -90,7 +90,7 @@ I'm actively looking for opportunities as a **Data Analyst** where I can apply m
 |---|---|---|
 | 📚 Book Web Scraping & Data Analysis | Python, BeautifulSoup, Pandas, Matplotlib | Web Scraping • EDA • Data Visualization |
 <p align="center">
-  <img src="./Assets.png" width="95%">
+  <img src="./book-web-scraping-data-analysis/Assets.png" width="95%">
 </p>>
 
 **Highlights**
