@@ -72,6 +72,8 @@ An interactive healthcare analytics dashboard built with **Power BI**, **DAX**, 
 | Visualization | DAX, Power BI |
 | Version Control | Git, GitHub |
 
+🔗 **[📂 View Project](https://github.com/Panchaminaik/Diabetes-Risk-Intelligence-Dashboard)**
+
 
 ### 📚 Book Web Scraping & Data Analysis
 
@@ -81,7 +83,7 @@ An interactive healthcare analytics dashboard built with **Power BI**, **DAX**, 
 |---|---|---|
 | 📚 Book Web Scraping & Data Analysis | Python, BeautifulSoup, Pandas, Matplotlib | Web Scraping • EDA • Data Visualization |
 <p align="center">
-  <img src="./Assets.png" width="100%" alt="Book Web Scraping & Data Analysis">
+  <img src="./assets/project_thumbnail.png" width="100%" alt="Book Web Scraping & Data Analysis">
 </p>
 
 **Highlights**
