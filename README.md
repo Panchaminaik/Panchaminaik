@@ -82,6 +82,27 @@ I'm actively looking for opportunities as a **Data Analyst** where I can apply m
 - Python
 - Business Intelligence
 
+### 📚 Book Web Scraping & Data Analysis
+
+> A complete Python data analytics workflow — from **web scraping → data cleaning → EDA → visualization → insights**.
+
+| 🔍 Project | 🛠️ Technologies | 📊 Focus |
+|---|---|---|
+| 📚 Book Web Scraping & Data Analysis | Python, BeautifulSoup, Pandas, Matplotlib | Web Scraping • EDA • Data Visualization |
+ <p align="center">
+  <img src="assets/book-web-scraping.png" width="800">
+</p>
+
+**Highlights**
+- 🌐 Collected **1,000 book records**
+- 🧹 Cleaned and prepared the dataset for analysis
+- 🔍 Identified **999 unique book titles**
+- 📊 Analyzed rating and price distributions
+- 📈 Explored the relationship between book price and rating
+- 🖼️ Created multiple data visualizations
+
+🔗 **[📂 View Project](https://github.com/Panchaminaik/book-web-scraping-data-analysis)**
+
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Panchami%20Naik-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/panchami1578)
